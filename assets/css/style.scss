@@ -1,18 +1,14 @@
 ---
 ---
 
-@import "";
+$section-headings-color: #6363B0 !default;
 
-$smogon-purple: #6363B0;
+@import "{{ site.theme }}";
 
 .page-header {
   background-image: url(https://www.smogon.com/media/zracknel-beta.svg.m.1);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 10vh;
-  background-color: $smogon-purple;
-}
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: $smogon-purple;
+  background-color: $section-headings-color;
 }
