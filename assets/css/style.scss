@@ -2,6 +2,7 @@
 ---
 
 $section-headings-color: #6363B0 !default;
+$body-link-color: #6363B0 !default;
 
 @import "{{ site.theme }}";
 
@@ -11,4 +12,5 @@ $section-headings-color: #6363B0 !default;
   background-size: contain;
   background-position: 10vh;
   background-color: $section-headings-color;
+  text-shadow: #222 0px 0px 5px;
 }
