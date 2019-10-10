@@ -2,14 +2,13 @@
 ---
 
 $section-headings-color: #6363B0 !default;
-$body-link-color: #6363B0 !default;
 
 @import "{{ site.theme }}";
 
 .page-header {
   background-image: url(https://www.smogon.com/media/zracknel-beta.svg.m.1);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: auto 70%;
   background-position: 10vh;
   background-color: $section-headings-color;
   text-shadow: #222 0px 0px 5px;
