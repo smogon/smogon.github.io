@@ -5,6 +5,10 @@ $section-headings-color: #6363B0 !default;
 
 @import "{{ site.theme }}";
 
+.main-content {
+  max-width: 80rem; 
+}
+
 .page-header {
   background-image: url(https://www.smogon.com/media/zracknel-beta.svg.m.1);
   background-repeat: no-repeat;
