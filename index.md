@@ -18,8 +18,8 @@ Welcome to the documentation pages for the Smogon Development Project. Here you 
     <div style="flex:2 0;padding:0px 0px 20px 35px;margin:auto;">
         <h3><a href="https://github.com/smogon"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://smogon.com/">Smogon</a></h3>
         <p style="font-size:12pt;">Smogon is the most comprehensive and accurate online resource for competitive Pokémon battling. Smogon offers articles and advice via its community forums to help fans of the game compete at every level, while honing their skills in every aspect of competitive Pokémon from team building to battling tactics. The <strong><a href="https://smogon.com/dex">Smogon Dex</a></strong> not only contains exhaustive details about Pokemon abilities, items, moves, species, movepools and stats, it also provides information about the best strategies for using each Pokemon in each of the game formats where is it viable. The various analyses the Dex contains are contributed by the community, and the moveset information from the Dex is used by players during team building for battles on Pokémon Showdown or as input to the Damage Calculator. <strong>@chaos</strong> is the creator and lead of the Smogon Dex, which can be found in the <a href="https://github.com/smogon/dex">smogon/dex</a> repository.</p>
-        <div style="width:300px;height:300px;flex: 0 0 auto;background-size:cover;background-position:center;background-image:url(screenshot-smogon.png);border-radius:5px;"></div>
     </div>
+    <div style="width:300px;height:300px;flex: 0 0 auto;background-size:cover;background-position:center;background-image:url(screenshot-smogon.png);border-radius:5px;"></div>
 </div>
 
 <div class="body" style="display:flex;margin-top:15px;align-items: center;">
