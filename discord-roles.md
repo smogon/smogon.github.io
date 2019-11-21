@@ -17,3 +17,4 @@
 - **Owners**/**Admin** - admin privileges on the Discord server. Currently defined to be only PS Tech Admins.
 - **Trusted** - users with access to private code and the `#private-dev` channel which is **only** to be used for discussion of work on that code. Assigned as needed.
 - **Staff** - able to see the `#staff` channel, purely used for meta discussion of running the Discord server itself. Anyone who can see the `<<dev>>`-room `/staffintro` on PS or is a Community Leader or above on Smogon automatically qualify, as do active and involved badgeholders/contributors with the community on a case-by-case basis (Admin discretion).
+- **Voice** - able to speak in Development channels. If you introduce yourself in `#getting-started` and provide enough evidence that you've read the rules aren't going to disrupt contributors you can be granted this role. 
